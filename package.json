@@ -1,6 +1,6 @@
 {
   "name": "to-source-code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts function to its source code.",
   "main": "index.js",
   "scripts": {

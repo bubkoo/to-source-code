@@ -17,6 +17,9 @@ $ npm install --save to-source-code
 
 ## Usage
 
+> For more use-cases see the [tests](https://github.com/bubkoo/to-source-code/blob/master/test/spec/index.js)
+
+
 ```js
 var toSourceCode = require('to-source-code');
 
