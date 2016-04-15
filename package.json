@@ -1,6 +1,6 @@
 {
   "name": "to-source-code",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Converts function to its source code.",
   "main": "index.js",
   "scripts": {
@@ -30,12 +30,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/to-source-code.git"
+    "url": "git+https://github.com/gearcase/to-source-code.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/to-source-code/issues"
+    "url": "https://github.com/gearcase/to-source-code/issues"
   },
-  "homepage": "https://github.com/bubkoo/to-source-code#readme",
+  "homepage": "https://github.com/gearcase/to-source-code#readme",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
